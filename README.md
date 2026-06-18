@@ -66,3 +66,30 @@ Create a flat minimalist vector logo of Sikwate Ice Cream. Use cacao elements, b
 
 ### Reflection
 The visual asset was designed to represent local cacao heritage and innovation. The logo combines traditional sikwate culture with modern branding to create a memorable identity for the business.
+# Literature Verification Log
+
+## Topic: Renewable Energy Transition Challenges in Mindanao
+
+### 1. AI-Generated Summary Audit
+
+| AI-Generated Statement | Verification Result | Notes |
+|-----------------------|--------------------|-------|
+| Mindanao is increasing its use of renewable energy sources. | Verified | Supported by government and energy reports. |
+| Hydroelectric plants such as Agus and Pulangi contribute significantly to Mindanao's electricity supply. | Verified | Consistent with public energy data. |
+| Renewable energy projects face infrastructure and funding challenges. | Verified | Mentioned in several studies and reports. |
+
+### 2. Critical Reflection on Tool Limitations
+
+AI tools can summarize information quickly and efficiently. However, they may provide incomplete information, outdated statistics, or unsupported claims. Human verification is important to ensure accuracy, credibility, and proper interpretation of research findings before they are used in decision-making.
+
+### 3. Literature Matrix
+
+| Source | Main Findings | Relevance to Mindanao |
+|----------|-------------|-------------------|
+| Department of Energy Reports | Growth of renewable energy projects | Supports regional energy development |
+| Mindanao Development Authority Reports | Regional energy challenges and opportunities | Provides local context |
+| Academic Journal Articles | Barriers to renewable energy adoption | Identifies implementation issues |
+
+### 4. Final Recommendation
+
+AI should be used as a research assistant rather than a final source of information. Researchers should verify AI-generated content using credible references and official reports. Combining AI efficiency with human evaluation improves the quality and reliability of research outputs.
